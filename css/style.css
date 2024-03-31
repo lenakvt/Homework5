@@ -5,7 +5,7 @@
 body {
 	width: 100%;
 	margin: 0px;
-	background-image: url(../img/new\ bg.jpg);
+	background-image: url(../img/new\ bg.png);
 	background-repeat: repeat-y no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -109,7 +109,7 @@ body {
 	body {
 		width: 100%;
 		margin: 0px;
-		background: url(../img/new\ bg.jpg) fixed no;
+		background: url(../img/new\ bg.png) fixed no;
 		overflow-x: hidden;
 	}
 
@@ -185,7 +185,7 @@ body {
 	body {
 		width: 100%;
 		margin: 0px;
-		background: url(../img/new\ bg.jpg) fixed no;
+		background: url(../img/new\ bg.png) fixed no;
 		overflow-x: hidden;
 	}
 
@@ -261,7 +261,7 @@ body {
 	body {
 		width: 100%;
 		margin: 0px;
-		background: url(../img/new\ bg.jpg) fixed no;
+		background: url(../img/new\ bg.png) fixed no;
 		overflow-x: hidden;
 	}
 
@@ -335,7 +335,7 @@ body {
 /*---------- Responsive Grid Ends ---------------*/
 footer {
 	text-align: center;
-	color: #cf3419;
+	color:#af85ff;
 	font-size: 1.9em
 }
 
