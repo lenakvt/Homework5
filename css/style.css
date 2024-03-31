@@ -34,7 +34,7 @@ body {
 		margin-left: 2%;
 		margin-top: 2%;
 		padding: 0px;
-		background-color: white;
+		background-color: #36c44f;
 		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 		transition: 0.3s;
 		width: 35%;
@@ -124,7 +124,7 @@ body {
 		margin-top: 10%;
 		margin-left: 2%;
 		margin-right: 0px;
-		background-color: white;
+		background-color: #36c44f;
 		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 		transition: 0.3s;
 		width: 95%;
@@ -136,7 +136,7 @@ body {
 	}
 
 	img {
-		border: 15px solid white;
+		border: 15px solid #36c44f;
 		margin-bottom: -20% !important;
 		border-radius: 50%;
 		width: 33%;
@@ -192,7 +192,7 @@ body {
 	hr {
 		width: 93%;
 		height: 2px;
-		background-color: gainsboro;
+		background-color:#36c44f;
 		border: 0px;
 	}
 
@@ -268,7 +268,7 @@ body {
 	hr {
 		width: 93%;
 		height: 2px;
-		background-color: gainsboro;
+		background-color: #36c44f;
 		border: 0px;
 	}
 
