@@ -41,6 +41,14 @@ body {
 		border-radius: 5px;
 	}
 
+	.git {
+		height: 450px;
+	}
+
+	.macos {
+		height: 450px;
+	}
+
 	.card:hover {
 		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 1);
 	}
